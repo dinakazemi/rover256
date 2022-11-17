@@ -1,0 +1,8 @@
+START alphanova.level
+SCAN elevation
+MOVE W 1
+MOVE N 1
+STATS
+SCAN shade
+FINISH
+QUIT

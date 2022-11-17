@@ -1,0 +1,14 @@
+START zelda.level
+SCAN elevation
+MOVE W 1
+WAIT 10
+STATS
+MOVE S 3
+FINISH
+START azguard.level
+MOVE W 5
+SCAN shade
+STATS
+INVALID
+FINISH
+QUIT

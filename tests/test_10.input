@@ -1,0 +1,8 @@
+START alphanova.level
+MOVE S
+MOVE E 10
+WAIT
+WAIT 5
+SCAN shade
+FINISH
+QUIT

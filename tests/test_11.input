@@ -1,0 +1,10 @@
+START titan.level
+SCAN elevation
+SCAN shade
+WAIT 9
+STATS
+MOVE E 15
+STATS
+FINISH
+HELP
+QUIT

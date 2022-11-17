@@ -1,0 +1,7 @@
+START azguard.level
+SCAN shade
+INVALID COMMAND
+MOVE N 1
+SCAN elevatio
+FINISH
+QUIT

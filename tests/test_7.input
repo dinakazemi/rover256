@@ -1,0 +1,5 @@
+START azguarde.level
+START azguard.level
+SCAN elevation
+FINISH
+QUIT
